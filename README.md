@@ -60,7 +60,7 @@ Sürücü, sürüş anında kazaya sebep olacak yanlış bir davranışta bulund
 - ### Datasetimizi YOLOv3-VOC modeliyle eğittik
 - ### CUDA ile GPU üzerinde 12 saat süren eğitim yaptık
 - ### Sürücünün sürüş anında kazaya sebep olacak hatalı davranışlarının tespit edilmesi için Python dilinde bir scrpit dosyası yazıldı
-Bu aşamada yardım almak için bu linke göz arabilirsiniz. 
+Bu aşamada yardım almak için bu linke göz atabilirsiniz. 
 [link](https://github.com/pjreddie/darknet/issues/289)
 
 #### YOLOv3'ün çalışma mantığı, CNN'de YOLO algoritmasının kullanıldığı yerler, Darknet-53 hakkında daha detaylı bilgiye sahip olabilmek için oluşturduğumuz Sunum dosyasına gözatınız.
