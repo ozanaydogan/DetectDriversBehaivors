@@ -1,5 +1,5 @@
 # DetectDriversBehaivors
-detect drivers bad behavior using YOLOv3
+Detect Drivers Bad Behavior Using YOLOv3
 
 Projenin amacı, herhangi bir ulaşım aracını kullanan sürücünün, sürüş esnasında kazaya sebep olabilecek 3 davranışı(Sürüş esnasında telefonla konuşması, 2 elini aynı anda direksiyondan çekmesi, sigara içmesi) tespit etmektir.
 
